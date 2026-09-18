@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/java/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/java/desugar_jdk_libs-2.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/java/core-lambda-stubs-30.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/java/onbotjava-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/java/androidx-rs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
